@@ -1,0 +1,9 @@
+/android/
+/ios/
+/.idea/
+/.vscode/
+/.gradle/
+/build/
+/pubspec.lock
+*.iml
+.DS_Store
