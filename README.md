@@ -16,30 +16,46 @@ Discussion boards for farmers to share knowledge and ask questions.
 Post images, videos, and tips related to farming practices.
 
 ## Technologies Used 
+
 Frontend: Flutter (Dart)
+
 Backend: Firebase
+
 Machine Learning: TensorFlow Lite (for disease detection)
+
 Weather API: OpenWeatherMap 
 
 ## Contributors
 
-Frontend/UI Development
+Frontend/UI Development :
+
 🔹 Aniket Khandekar
+
 Designed and implemented the app’s UI/UX.
+
 Ensured smooth navigation and responsive layouts.
 
-Weather Information Integration
+Weather Information Integration :
+
 🔹 Sarthak Deshmukh
+
 Integrated real-time weather data using OpenWeatherMap API.
+
 Implemented weather forecasts and alerts.
 
-ML Model & Crop Disease Detection
+ML Model & Crop Disease Detection :
+
 🔹 Kushal Endait
+
 Developed and optimized the TensorFlow Lite model for disease detection.
+
 Integrated AI-based image processing for accurate crop disease identification.
 
-Farmer Community Forum
+Farmer Community Forum : 
+
 🔹 Pratik Nikam
+
 Built the community forum .
+
 Implemented user authentication, posts, and discussions.
 
